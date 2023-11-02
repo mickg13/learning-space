@@ -18,17 +18,5 @@ function App() {
     </div>
   );
 }
-//  function CenterTitle() {
-//   return(
-//     <div id="text_div center_all">
-//       <div className="Center_all">
-//         <h1 className='div_zero'> Particles Background</h1>
-
-//       </div>
-//     </div>
-
-
-//  );
-//  }
-
+ 
 export default App;
