@@ -7,7 +7,7 @@ import './App.css';
 function App() {
   return (
     <div >
-        <h1>Helllowwwwwwwwww</h1>
+        <h1>Hello world !</h1>
         <ParticlesDisplay />
        
      
