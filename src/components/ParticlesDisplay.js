@@ -121,7 +121,7 @@ const ParticlesDisplay = () => {
   },
   "retina_detect": true,
   "background" : {
-    "color":"#1e81b0"
+    "color":"940B92"
       
   }
 }
